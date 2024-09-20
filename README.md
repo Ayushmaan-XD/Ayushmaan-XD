@@ -4,15 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushmaan-xd&label=Profile%20views&color=0e75b6&style=flat" alt="ayushmaan-xd" /> </p>
 
+- 📚 B.Tech in **Electronics and Communication Engineering (ECE)**
+
 - 🔭 I’m currently working on **Data science and Machine learning project**
 
-- 🌱 I’m currently learning **Frameworks and Machine learning**
+- 🌱 Currently exploring **machine learning and AI applications in ECE**
 
-- 🤝 I’m looking for help with **Data science**
+- 🤝 Looking to collaborate on **open-source projects and innovative solutions**
 
 - 💬 Ask me about **C++, Python and AI**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I love Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
