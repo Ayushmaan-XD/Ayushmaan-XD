@@ -12,7 +12,7 @@
 
 - 🤝 Looking to collaborate on **open-source projects and innovative solutions**
 
-- 💬 Ask me about **C++, Python and AI**
+- 💬 Ask me about **REACT, REACT NATIVE, JAVASCRIPT, c++, PYTHON, SQL, MONGODB, NEXTJS, NODEJS**
 
 - ⚡ Fun fact **I love Anime**
 
