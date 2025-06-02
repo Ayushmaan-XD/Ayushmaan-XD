@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **REACT, REACT NATIVE, JAVASCRIPT, c++, PYTHON, SQL, MONGODB, NEXTJS, NODEJS**
 
-- ⚡ Fun fact **I love Anime**
+- ⚡ Fun fact **I love Chess** Rating-**1855**
 
 <h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
