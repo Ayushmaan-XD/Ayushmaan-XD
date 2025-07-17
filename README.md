@@ -85,3 +85,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayushmaan-XD&theme=material-palenight&show_icons=true&locale=en" alt="ayushmaan-xd" /></p>
 
+ <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="-----------------------------------------------------">
+
+<div align="center">
+  <h3>✨ Thanks for visiting! ✨</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave"/>
+  <br/>
+</div>
